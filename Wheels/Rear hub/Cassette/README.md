@@ -1,5 +1,5 @@
-#Cassette
+# Cassette
 
 Here are cassettes and sprockets.
 
-![A 6-speed cassette](Regural 6s.png)
+![A 6-speed cassette](Regular6s.png)
